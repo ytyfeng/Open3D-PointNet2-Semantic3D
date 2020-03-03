@@ -129,6 +129,8 @@ cd .. # Now we're at Open3D-PointNet2-Semantic3D/tf_ops
 python test_tf_ops.py
 ```
 
+If this step gives you errors, it could be one of the errors reported [here](https://github.com/ytyfeng/Open3D-PointNet2-Semantic3D/issues/1).
+
 ### 5. Train
 
 Run
