@@ -25,10 +25,13 @@ In this project, Open3D was used for
   interpolation.
 - And more.
 
-This project is forked from Mathieu Orhan and Guillaume Dekeyser's
+This project is forked from Intel lab's [repo](https://github.com/intel-isl/Open3D-PointNet2-Semantic3D), which is forked
+from Mathieu Orhan and Guillaume Dekeyser's
 [repo](https://github.com/mathieuorhan/pointnet2_semantic), which, is forked
 from the original [PointNet2](https://github.com/charlesq34/pointnet2). We thank the
 original authors for sharing their methods.
+
+This project updated Open3D code to use the latest version of Open3D and made minor changes.
 
 ## Usage
 
